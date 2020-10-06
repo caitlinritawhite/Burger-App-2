@@ -1,0 +1,47 @@
+li {
+  padding: 5px;
+  margin: 5px;
+ 
+}
+
+.header {
+  text-align: center;
+  color: white;
+}
+.add-burger{
+  text-align: center;
+}
+.card-header {
+  font-size: 25px;
+}
+.burger-btn {
+  color: white;
+}
+
+.burger-lists{
+  margin-left: 15%;
+
+}
+.devoured-list {
+ 
+  margin-right: 20%;
+}
+.burger-img {
+  height: 100px;
+  width: 100px;
+}
+
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
